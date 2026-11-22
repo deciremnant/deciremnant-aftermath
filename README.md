@@ -32,7 +32,7 @@ Explore ruined Lost Cities streets, search furnished apartments for supplies, tr
 
 ## Status
 
-Pre-release. Report bugs on Discord with your version and what happened.
+Alpha: 1.0 is the first alpha, each 1.x update brings fixes and new content; 2.0 will be the beta, then stable. Report bugs on Discord with your version and what happened.
 
 ## Licence
 
